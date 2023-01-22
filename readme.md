@@ -1,4 +1,4 @@
-# Shortly Website
+# Loop Studios Website
 
 Made following a tutorial by Brad Traversy. Site deployed on Vercel: [Loop Studios](https://loop-studios-navy.vercel.app/ 'Click to visit site')
 
